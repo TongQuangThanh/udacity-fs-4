@@ -1,10 +1,16 @@
 # Hosting a Full-Stack Application
 
-# Udagram
+# Udagram target 
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
+# Udagram Overview
 
+The project application, Udagram - an Image Filtering application, allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering service. It has two components:
+
+Frontend - Angular web application built with Ionic framework
+Backend RESTful API - Node-Typescript application
+A workspace has been set up for you with the necessary tools and the Udagram starter application. If you plan to use Udagram, make sure to connect this folder to a GitHub repository.
 
 ### Dependencies
 
@@ -20,6 +26,9 @@ This application is provided to you as an alternative starter project if you do 
 - A S3 bucket for hosting uploaded pictures.
 
 ```
+
+## Link to your hosted working frontend application
+http://myudacity747325614833.s3-website.us-east-2.amazonaws.com/home
 
 ## Built With
 
