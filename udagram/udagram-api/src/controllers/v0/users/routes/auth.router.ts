@@ -7,8 +7,6 @@ import * as c from '../../../../config/config';
 import * as jwt from 'jsonwebtoken';
 import {NextFunction} from 'connect';
 
-import {config} from 'bluebird';
-
 const router: Router = Router();
 var bcrypt = require('bcryptjs');
 
