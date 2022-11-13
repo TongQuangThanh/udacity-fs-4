@@ -18,4 +18,5 @@ Then Build Back-End project
 By `npm run build` on BE directory  
 
 Then Deploy App  
+By `npm run deploy` on BE directory  
 By `npm run deploy` on FE directory  
