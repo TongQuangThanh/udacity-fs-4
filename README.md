@@ -27,8 +27,10 @@ A workspace has been set up for you with the necessary tools and the Udagram sta
 
 ```
 
-## Link to your hosted working frontend application
+## Link to hosted working frontend application
 http://myudacity747325614833.s3-website.us-east-2.amazonaws.com/home
+
+![Alt text](../../../../../../../D:/IT/source/sample/UDACITY/fullstackJS/nd0067-c4-deployment-process-project-starter/screenshot/app-running.png)
 
 ## Built With
 
