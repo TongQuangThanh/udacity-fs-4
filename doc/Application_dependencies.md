@@ -1,5 +1,22 @@
 # Application dependencies
 
+## Dependencies for running locally
+```
+- Node v14.15.1 (LTS)
+- npm 6.14.8 (LTS)
+- AWS CLI v2
+- Postgres DB, preferably AWS RDS
+- S3 bucket for hosting
+```
+
+## Dependencies for running online
+Additional recommend environment dependencies:
+```
+- AWS S3 for hosting the frontend
+- Elastic Beanstalk to install the backend for EC2
+- CircleCI to automate it all
+```
+
 ## For BE
 ```
 "dependencies": {
@@ -18,7 +35,6 @@
     "sequelize-typescript": "^2.1.3"
   }
 ```
-
 
 ## For FE
 ```
